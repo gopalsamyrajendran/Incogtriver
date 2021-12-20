@@ -1,3 +1,6 @@
+
+![sample](https://user-images.githubusercontent.com/53430049/146731058-91f4518b-c4d2-4ad3-8fb7-97550f41ab16.PNG)
+
 # Incogtriver
 Simple python based tool to retrieve incognito history and remove it.  
 
