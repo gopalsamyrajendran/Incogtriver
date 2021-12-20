@@ -18,3 +18,4 @@ Simple python based tool to retrieve incognito history and remove it.
 2. Also you can remove existing incognito history. 
 3. Simply run the tool and you will be presented with menu. From there you can choose the option.
 
+**Credits:** Internet
